@@ -1,6 +1,7 @@
-# Source Ctrl Coding Club - Discussions
 
-Welcome to the discussions repository of the Source Ctrl Coding Club! This is a space where club members can ask questions, share ideas, and engage in conversations related to coding and the club's activities.
+ # Bull Ctrl Coding Club - Discussions
+
+Welcome to the discussions repository of the Bull Ctrl Coding Club! This is a space where club members can ask questions, share ideas, and engage in conversations related to coding and the club's activities.
 
 ## How to Use
 
@@ -11,7 +12,7 @@ Welcome to the discussions repository of the Source Ctrl Coding Club! This is a 
 
 ## Code of Conduct
 
-Please note that the Source Ctrl Coding Club has a code of conduct that all members are expected to follow. This includes:
+Please note that the Bull Ctrl Coding Club has a code of conduct that all members are expected to follow. This includes:
 
 - Being respectful and inclusive of all members, regardless of their background, experience level, or identity
 - Refraining from any form of discrimination, harassment, or hate speech
